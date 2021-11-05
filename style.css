@@ -11739,7 +11739,7 @@ ul.benifits-col li i{
 		margin-right: 12px;
 	}
 	.dct-appoinment .user-tabs .nav-tabs > li > a, .user-tabs .nav-tabs > li > a {
-		width: 200px;
+		/*width: 200px;*/
 		font-size: 14px;
 		padding: 17px 17px;
 		margin-right: 10px;
