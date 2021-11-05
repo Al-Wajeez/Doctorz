@@ -6825,7 +6825,7 @@ body .multi-optn {
     font-weight: 600;
     padding: 15px 25px;
 	text-align: center;
-    width: 275px;
+    width: 380px;
     height: 60px;
 	margin-right: 18px;
 	font-weight: 500;
@@ -11739,7 +11739,7 @@ ul.benifits-col li i{
 		margin-right: 12px;
 	}
 	.dct-appoinment .user-tabs .nav-tabs > li > a, .user-tabs .nav-tabs > li > a {
-		
+		width: 390px;
 		font-size: 14px;
 		padding: 17px 17px;
 		margin-right: 10px;
